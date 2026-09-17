@@ -70,4 +70,4 @@ BOOSTSCIENCE is an Erasmus+ CBHE Strand 2 project: **Boosting Education Quality 
 
 ## License
 
-No open-source license is bundled by default. Add the license selected by the repository owner before presenting the repository as open-source software/content.
+This repository is released under the MIT License. See [LICENSE](LICENSE) for the full text.
